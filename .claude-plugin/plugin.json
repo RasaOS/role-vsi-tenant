@@ -1,5 +1,5 @@
 {
   "name": "rasa-role-vsi-tenant",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "The VSI Tenant role (`vsi-tenant`) as a RasaOS role module. The standing authority on how VSI builds things. Ask it what the standard is, where it is written, and whether a plan meets it."
 }
