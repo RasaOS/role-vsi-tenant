@@ -1,0 +1,22 @@
+{
+  "id": "vsi-tenant",
+  "name": "VSI Tenant",
+  "summary": "The standing authority on how VSI builds things. Ask it what the standard is, where it is written, and whether a plan meets it.",
+  "version": 1,
+  "consumers": [
+    "daemon",
+    "worker"
+  ],
+  "knowledge": [
+    "CLAUDE.md",
+    "contracts",
+    "decisions",
+    "conventions",
+    "stack",
+    "roadmap.md",
+    "AUDIT.md"
+  ],
+  "takes": [],
+  "kinds": [],
+  "grants": []
+}
